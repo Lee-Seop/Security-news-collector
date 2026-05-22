@@ -60,6 +60,6 @@ python google_news_rss.py
 
 ## 개선 예정 사항
 
-- 스케줄링 적용: 3시간 단위 자동 실행 (cron / APScheduler)
+- 스케줄링 적용: 3시간 단위 자동 실행 (cron)
 - 이메일 알림 연동
 - 키워드 위험도 분류 자동화

@@ -50,13 +50,13 @@
 
 ## 실행 방법
 
-# 패키지 설치
+## 패키지 설치
 pip install feedparser pandas openpyxl pytz beautifulsoup4 selenium
 
-# Google RSS 버전 실행 (권장)
+## Google RSS 버전 실행 (권장)
 python google_news_rss.py
 
-# 실행 후 키워드와 기간을 입력하면 result.xlsx 생성
+## 실행 후 키워드와 기간을 입력하면 result.xlsx 생성
 
 ## 개선 예정 사항
 
